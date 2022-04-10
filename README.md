@@ -1,4 +1,18 @@
-# Semana4
+# proyecto android
+### realizado con:
+~~~
+** Xml ** 
+  *Material deign,
+  * Card view,
+  
+** Java **  
+  * Recycler view,
+  * Activities,
+  * pojo,
+  * fotos de mascotas de ejemplo tomadas de internet,
+  * Android estudio,
+
+~~~
 Proyecto de Mascotas semana 4, Adjunto pantallazos
 ![1 (1)](https://user-images.githubusercontent.com/20443845/96377668-b8c46f00-114c-11eb-9b95-a521b6e30b3f.png)
 ![1 (2)](https://user-images.githubusercontent.com/20443845/96377670-bb26c900-114c-11eb-9975-9cbf001add91.png)
