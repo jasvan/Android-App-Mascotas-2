@@ -1,16 +1,16 @@
-# proyecto android
+# Proyecto android
 ### realizado con:
 ~~~
-**Xml** 
-  *Material deign,
-  * Card view,
+Xml 
+  . Material deign,
+  . Card view,
   
-**Java**  
-  *Recycler view,
-  *Activities,
-  *pojo,
-  *fotos de mascotas de ejemplo tomadas de internet,
-  *Android estudio,
+Java  
+  .Recycler view,
+  .Activities,
+  .pojo,
+  .fotos de mascotas de ejemplo tomadas de internet,
+  .Android estudio,
 
 ~~~
 Proyecto de Mascotas semana 4, Adjunto pantallazos
