@@ -8,7 +8,7 @@ Xml
 Java  
   .Recycler view,
   .Activities,
-  .pojo,
+  .pojo sqlite,
   .fotos de mascotas de ejemplo tomadas de internet,
   .Android estudio,
 
